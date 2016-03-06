@@ -1,0 +1,14 @@
+{
+  "name": "prime-gen",
+  "version": "0.1.0",
+  "description": "Node module for generating prime numbers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asr21/prime-gen.git"
+  },
+  "keywords": ["prime"],
+  "author": "Abhijit Ranalkar <abhijitranalkar@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/asr21/prime-gen#readme"
+}
